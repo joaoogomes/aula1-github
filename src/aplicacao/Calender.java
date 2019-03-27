@@ -12,7 +12,7 @@ public class Calender {
 		
 		Calendar cal = Calendar.getInstance();
 		cal.setTime(d);
-		
+		System.out.println("teste");
 		System.out.println(d);
 		System.out.println(cal.toString());
 
